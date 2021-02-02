@@ -1,4 +1,3 @@
 const test = () => {
-    console.log("It works, probably....")
+    console.log("It works!!!")
 };
-//it isnt working?
